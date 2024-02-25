@@ -1,0 +1,26 @@
+/*!
+ * Copyright (c) 2024. Bahrudin Ardiansyah | bahrudin.no8@gmail.com
+ */
+
+/** Tambah: Fonts **/
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+/** Tambah: Bootstrap **/
+@import 'bootstrap/scss/bootstrap';
+
+/** Tambah: Bootstrap icons **/
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+/** Tambah: Select2 Versi Bootsrap 5 **/
+@import 'select2/dist/css/select2.min.css';
+@import "select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.min.css";
+
+/** Tambah: DataTables Versi Bootsrap 5 **/
+@import "datatables.net-bs5/css/dataTables.bootstrap5.min.css";
+@import 'datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css';
+@import 'datatables.net-fixedheader-bs5/css/fixedHeader.bootstrap5.min.css';
+
+/** Tambah: Styles CSS Costume sendiri **/
+@import "my-app";
+
+
